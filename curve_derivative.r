@@ -1,5 +1,5 @@
-##curvature, function to create the derivative of an asymetrical (each s-shape modeled separately) phenophase curve
-##this function can be used to calculate the phenophase transition date
+##function to create the derivative of an asymetrical phenophase curve (e.g, each s-shape modeled separately) 
+##this function can be used to calculate the phenophase transition date, see example at bottom
 
 curve<-function(x,y,a,b){
     ##y is the idex/response (eg. gcc or other phenology index)
