@@ -1,2 +1,2 @@
 # phenometrics
-some functions for extracting phenology indices from PhenoCam data and calculating phenophase transitions from phenology curves
+some functions for a) extracting phenology indices from PhenoCam data and b) calculating phenophase transitions from phenology curves
